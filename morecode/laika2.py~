@@ -1,0 +1,7 @@
+#!/usr/bin/python
+import os
+
+#malware = open('0.exe','r').read()
+
+os.system("./laika.py 0.exe")
+#os.system("./laika.py {}".format(malware))
